@@ -1,0 +1,12 @@
+UMDF Channel Derivatives,Number of Messages,Maximum MPS (msgs/sec),Estimated Max Bandwidth (Mbps),MPS (msgs/sec),Bandwidth (Mbps)
+Peak of Messages - 17:00:00,0,0,0,9568,"   6,1026"
+MBO Ch.1 - FX Futures,5.683.437,1.964,"   1,4417",486,"   0,2914 "
+MBO Ch.2 - FX Options,247.343,3.295,"   2,1727",2654,"   1,7303 "
+MBO Ch.3 - Interest rate Futures,7.146.034,7.049,"   4,3211",230,"   0,1312 "
+MBO Ch.4 - Interest rate Option,83.209,995,"   0,6386",877,"   0,5786 "
+MBO Ch.5 - Commodity Futures,71.058,107,"   0,0742",15,"   0,0068 "
+MBO Ch.6 - Commodity Options,28.600,1.252,"   0,8247",992,"   0,6375 "
+MBO Ch.7 - Equity Index Futures,9.095.324,1.836,"   1,1858",1094,"   0,5789 "
+MBO Ch.8 - Market Maker Program,1.268.742,727,"   0,4204",565,"   0,3466 "
+MBO Ch.9 - FX Spot,2.506,15,"   0,0050",0,0 
+MBO Ch.10 - Equity Index Fut-mini,27.744.756,4.217,"   3,2784",2655,"   1,8012 "

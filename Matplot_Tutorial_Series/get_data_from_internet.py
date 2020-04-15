@@ -30,6 +30,10 @@ for line in split_source:
             stock_data.append(line)
 
 
+#Use plt.figure para poder fazer modificações no seu gráfico
+#Sempre que quiser fazer modificações no grafico é importante
+#Usar plt.figure
+
 # Essa função não está mais funcionando: bytedate2num
 date, closep, highp, lowp, closep, adjusted_close, volumep = np.loadtxt(stock_data, delimiter=',', unpack=True, converters={0:bytespdate2num('%Y-%m-%d')})
 
